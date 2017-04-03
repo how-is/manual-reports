@@ -28,6 +28,17 @@
   </header>
 
   {{ content }}
+
+
+  {% if page.categories == nil %}
+  {% comment %}
+  HACK: I'm not up for bothering with making this look nice on individual
+        reports, so I'm just hiding it there instead.
+  {% endcomment %}
+  <footer>
+    <a href="https://github.com/how-is/manual-reports">Source is on GitHub</a>
+  </footer>
+  {% endif %}
 </main>
 
 </body>
