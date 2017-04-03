@@ -14,7 +14,11 @@
 
 <main>
   <header>
-    <h1>How is RubyGems?</h1>
+    {% if page.categories.size > 0 %}
+    <h1>How is {{ page.categories.first }}?</h1>
+    {% else %}
+    <h1>HowIs Reports</h1>
+    {% endif %}
 
     <nav>
       <ul>
