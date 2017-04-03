@@ -1,7 +1,7 @@
 repository: bundler/bundler
 reports:
   html:
-    directory: _bundler
+    directory: bundler/_posts
     frontmatter:
       title: "%{date} Report"
       layout: default

@@ -1,7 +1,7 @@
 repository: rubygems/rubygems.org
 reports:
   html:
-    directory: _rubygems.org
+    directory: rubygems.org/_posts
     frontmatter:
       title: "%{date} Report"
       layout: default

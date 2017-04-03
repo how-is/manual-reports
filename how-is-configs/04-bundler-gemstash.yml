@@ -1,7 +1,7 @@
 repository: bundler/gemstash
 reports:
   html:
-    directory: _gemstash
+    directory: gemstash/_posts
     frontmatter:
       title: "%{date} Report"
       layout: default
