@@ -2,14 +2,14 @@
 layout: default
 ---
 
-how_is reports for RubyGems:
+how_is reports:
 
 <ul>
 {% for post in site.posts %}
   {% comment %}
   { % if post.categories contains category %}
   {% endcomment %}
-    <li><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a> ({{ post.categories | join: ', '  }})</li>
   {% comment %}
   { % endif %}
   {% endcomment %}
