@@ -1,0 +1,11 @@
+repository: bundler/bundler
+reports:
+  html:
+    directory: _bundler
+    frontmatter:
+      title: "%{date} Report"
+      layout: default
+    filename: "%{date}-report.html"
+  json:
+    directory: json/bundler
+    filename: "%{date}.json"
