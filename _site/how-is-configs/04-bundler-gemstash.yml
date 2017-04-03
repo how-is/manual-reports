@@ -1,0 +1,11 @@
+repository: bundler/gemstash
+reports:
+  html:
+    directory: gemstash/_posts
+    frontmatter:
+      title: "%{date} Report"
+      layout: default
+    filename: "%{date}-report.html"
+  json:
+    directory: json/gemstash
+    filename: "%{date}.json"
