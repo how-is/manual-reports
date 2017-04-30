@@ -1,0 +1,92 @@
+{
+  "issues_url": "https://github.com/bundler/bundler/issues",
+  "pulls_url": "https://github.com/bundler/bundler/pulls",
+  "repository": "bundler/bundler",
+  "number_of_issues": 199,
+  "number_of_pulls": 33,
+  "issues_with_label": {
+    "type: bug report": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+bug+report%22",
+      "total": 48
+    },
+    "status: user feedback required": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+user+feedback+required%22",
+      "total": 8
+    },
+    "type: feature-request": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+feature-request%22",
+      "total": 65
+    },
+    "contribution: unclaimed": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution%3A+unclaimed%22",
+      "total": 8
+    },
+    "platform: windows": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+windows%22",
+      "total": 1
+    },
+    "status: ready": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+ready%22",
+      "total": 15
+    },
+    "status: working": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+working%22",
+      "total": 25
+    },
+    "type: documentation": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+documentation%22",
+      "total": 12
+    },
+    "status: triage": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+triage%22",
+      "total": 25
+    },
+    "status: confirmed": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+confirmed%22",
+      "total": 2
+    },
+    "type: administrative": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+administrative%22",
+      "total": 5
+    },
+    "platform: jruby": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+jruby%22",
+      "total": 3
+    },
+    "contribution: small": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution%3A+small%22",
+      "total": 3
+    },
+    "platform: rubinius": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+rubinius%22",
+      "total": 1
+    }
+  },
+  "issues_with_no_label": {
+    "link": null,
+    "total": 41
+  },
+  "average_issue_age": "approximately 8 months and 2 weeks",
+  "average_pull_age": "approximately 6 months and 1 week",
+  "oldest_issue": {
+    "html_url": "https://github.com/bundler/bundler/issues/2048",
+    "number": 2048,
+    "date": "2012-08-08T19:15:38+00:00"
+  },
+  "oldest_pull": {
+    "html_url": "https://github.com/bundler/bundler/pull/3696",
+    "number": 3696,
+    "date": "2015-05-31T01:27:35+00:00"
+  },
+  "newest_issue": {
+    "html_url": "https://github.com/bundler/bundler/issues/5627",
+    "number": 5627,
+    "date": "2017-04-30T06:21:45+00:00"
+  },
+  "newest_pull": {
+    "html_url": "https://github.com/bundler/bundler/pull/5624",
+    "number": 5624,
+    "date": "2017-04-28T12:50:22+00:00"
+  },
+  "pulse": "Excluding merges, <strong>13 authors</strong>\n      have pushed\n      <strong><span class=\"text-emphasized\">127</span> commits</strong> to master and\n      <strong><span class=\"text-emphasized\">149</span> commits</strong>\n      to all branches.\n      On master, <strong>78 files</strong>\n      have changed and there have been\n      <a href=\"https://github.com/bundler/bundler/compare/master@%7B1490856160%7D...master\" class=\"lines-changed\">\n        <strong class=\"insertions\">1,668</strong> <strong>additions</strong> and\n        <strong class=\"deletions\">306</strong> <strong>deletions</strong></a>."
+}
