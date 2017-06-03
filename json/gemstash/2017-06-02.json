@@ -1,0 +1,44 @@
+{
+  "issues_url": "https://github.com/bundler/gemstash/issues",
+  "pulls_url": "https://github.com/bundler/gemstash/pulls",
+  "repository": "bundler/gemstash",
+  "number_of_issues": 30,
+  "number_of_pulls": 5,
+  "issues_with_label": {
+    "bug": {
+      "link": "https://github.com/bundler/gemstash/issues?q=is%3Aopen+is%3Aissue+label%3A%22bug%22",
+      "total": 1
+    },
+    "enhancement": {
+      "link": "https://github.com/bundler/gemstash/issues?q=is%3Aopen+is%3Aissue+label%3A%22enhancement%22",
+      "total": 1
+    }
+  },
+  "issues_with_no_label": {
+    "link": null,
+    "total": 28
+  },
+  "average_issue_age": "approximately 11 months and 1 week",
+  "average_pull_age": "approximately 11 months and 5 days",
+  "oldest_issue": {
+    "html_url": "https://github.com/bundler/gemstash/issues/12",
+    "number": 12,
+    "date": "2015-10-06T06:05:17+00:00"
+  },
+  "oldest_pull": {
+    "html_url": "https://github.com/bundler/gemstash/pull/48",
+    "number": 48,
+    "date": "2015-11-06T10:07:00+00:00"
+  },
+  "newest_issue": {
+    "html_url": "https://github.com/bundler/gemstash/issues/149",
+    "number": 149,
+    "date": "2017-05-23T14:08:54+00:00"
+  },
+  "newest_pull": {
+    "html_url": "https://github.com/bundler/gemstash/pull/147",
+    "number": 147,
+    "date": "2017-05-18T20:13:26+00:00"
+  },
+  "pulse": "Excluding merges, <strong>1 author</strong>\n      has pushed\n      <strong><span class=\"text-emphasized\">6</span> commits</strong> to master and\n      <strong><span class=\"text-emphasized\">6</span> commits</strong>\n      to all branches.\n      On master, <strong>12 files</strong>\n      have changed and there have been\n      <a href=\"https://github.com/bundler/gemstash/compare/master@%7B1493690858%7D...master\" class=\"lines-changed\">\n        <strong class=\"insertions\">181</strong> <strong>additions</strong> and\n        <strong class=\"deletions\">1</strong> <strong>deletions</strong></a>."
+}
