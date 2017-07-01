@@ -1,0 +1,96 @@
+{
+  "issues_url": "https://github.com/bundler/bundler/issues",
+  "pulls_url": "https://github.com/bundler/bundler/pulls",
+  "repository": "bundler/bundler",
+  "number_of_issues": 177,
+  "number_of_pulls": 45,
+  "issues_with_label": {
+    "status: user feedback required": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+user+feedback+required%22",
+      "total": 2
+    },
+    "type: question": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+question%22",
+      "total": 2
+    },
+    "type: bug report": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+bug+report%22",
+      "total": 43
+    },
+    "type: administrative": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+administrative%22",
+      "total": 7
+    },
+    "contribution: small": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution%3A+small%22",
+      "total": 5
+    },
+    "contribution: unclaimed": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution%3A+unclaimed%22",
+      "total": 13
+    },
+    "type: feature-request": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+feature-request%22",
+      "total": 49
+    },
+    "status: working": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+working%22",
+      "total": 21
+    },
+    "type: documentation": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+documentation%22",
+      "total": 12
+    },
+    "platform: windows": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+windows%22",
+      "total": 2
+    },
+    "status: ready": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+ready%22",
+      "total": 13
+    },
+    "status: triage": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+triage%22",
+      "total": 17
+    },
+    "status: confirmed": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+confirmed%22",
+      "total": 1
+    },
+    "platform: jruby": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+jruby%22",
+      "total": 3
+    },
+    "platform: rubinius": {
+      "link": "https://github.com/bundler/bundler/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+rubinius%22",
+      "total": 1
+    }
+  },
+  "issues_with_no_label": {
+    "link": null,
+    "total": 46
+  },
+  "average_issue_age": "approximately 9 months and 1 day",
+  "average_pull_age": "approximately 5 months and 1 day",
+  "oldest_issue": {
+    "html_url": "https://github.com/bundler/bundler/issues/2048",
+    "number": 2048,
+    "date": "2012-08-08T19:15:38+00:00"
+  },
+  "oldest_pull": {
+    "html_url": "https://github.com/bundler/bundler/pull/4160",
+    "number": 4160,
+    "date": "2015-12-14T21:54:25+00:00"
+  },
+  "newest_issue": {
+    "html_url": "https://github.com/bundler/bundler/pull/5831",
+    "number": 5831,
+    "date": "2017-07-01T00:58:43+00:00"
+  },
+  "newest_pull": {
+    "html_url": "https://github.com/bundler/bundler/pull/5831",
+    "number": 5831,
+    "date": "2017-07-01T00:58:43+00:00"
+  },
+  "pulse": "Excluding merges, <strong>13 authors</strong>\n        have pushed\n        <strong><span class=\"text-emphasized\">124</span> commits</strong> to master and\n        <strong><span class=\"text-emphasized\">145</span> commits</strong>\n        to all branches.\n        On master, <strong>809 files</strong>\n        have changed and there have been\n        <a href=\"https://github.com/bundler/bundler/compare/master@%7B1496308868%7D...master\" class=\"lines-changed\">\n          <strong class=\"insertions\">7,180</strong> <strong>additions</strong> and\n          <strong class=\"deletions\">1,409</strong> <strong>deletions</strong></a>."
+}
