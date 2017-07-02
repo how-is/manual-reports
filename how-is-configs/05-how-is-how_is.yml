@@ -1,0 +1,11 @@
+repository: how-is/how_is
+reports:
+  html:
+    directory: how_is/_posts
+    frontmatter:
+      title: "%{date} Report"
+      layout: default
+    filename: "%{date}-report.html"
+  json:
+    directory: json/how_is
+    filename: "%{date}.json"

@@ -1,0 +1,64 @@
+{
+  "issues_url": "https://github.com/how-is/how_is/issues",
+  "pulls_url": "https://github.com/how-is/how_is/pulls",
+  "repository": "how-is/how_is",
+  "number_of_issues": 18,
+  "number_of_pulls": 0,
+  "issues_with_label": {
+    "type: feature request": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+feature+request%22",
+      "total": 10
+    },
+    "category: export": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22category%3A+export%22",
+      "total": 3
+    },
+    "ready": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22ready%22",
+      "total": 5
+    },
+    "type: refactoring": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+refactoring%22",
+      "total": 4
+    },
+    "type: bug report": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22type%3A+bug+report%22",
+      "total": 1
+    },
+    "size: small": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22size%3A+small%22",
+      "total": 2
+    },
+    "category: developer experience": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22category%3A+developer+experience%22",
+      "total": 1
+    },
+    "size: here be dragons": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22size%3A+here+be+dragons%22",
+      "total": 1
+    },
+    "size: large": {
+      "link": "https://github.com/how-is/how_is/issues?q=is%3Aopen+is%3Aissue+label%3A%22size%3A+large%22",
+      "total": 1
+    }
+  },
+  "issues_with_no_label": {
+    "link": null,
+    "total": 1
+  },
+  "average_issue_age": "approximately 5 months and 1 week",
+  "average_pull_age": null,
+  "oldest_issue": {
+    "html_url": "https://github.com/how-is/how_is/issues/6",
+    "number": 6,
+    "date": "2016-06-09T18:09:10+00:00"
+  },
+  "oldest_pull": null,
+  "newest_issue": {
+    "html_url": "https://github.com/how-is/how_is/issues/164",
+    "number": 164,
+    "date": "2017-07-02T00:33:56+00:00"
+  },
+  "newest_pull": null,
+  "pulse": "There hasn't been any activity on how-is/how_is in the last month."
+}
